@@ -51,3 +51,8 @@
 
 
 ## OUTPUT:
+![445520335-2f1bb88c-dabc-4ac1-ba0d-99a9889b27e5](https://github.com/user-attachments/assets/63e3f31c-2115-4060-9ce5-887fcd69fa03)
+
+
+# RESULT
+Thus, the image was successfully edited using basic tools in an image editing software. The editing included cropping, resizing, background change, color adjustment, and object transformation.
